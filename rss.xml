@@ -1,83 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
 
     <title>DrNightstone</title>
-
     <link>https://drnightst.one/</link>
-
-    <description>
-        Writing on the Elder Scrolls, Glorantha, worldbuilding,
-        mythology, religion, folklore, and related subjects.
-    </description>
-
+    <description>Writing on the Elder Scrolls, Glorantha, worldbuilding, mythology, religion, folklore, and related subjects.</description>
     <language>en</language>
 
+    <atom:link
+        href="https://drnightstone.github.io/drnightstone-rss/rss.xml"
+        rel="self"
+        type="application/rss+xml" />
+
 
     <item>
-
         <title>Vinga Through the Ages</title>
-
         <link>https://drnightst.one/#vinga-through-the-ages</link>
-
-        <guid isPermaLink="true">
-            https://drnightst.one/#vinga-through-the-ages
-        </guid>
-
-        <pubDate>
-            Tue, 13 Oct 2026 12:00:00 GMT
-        </pubDate>
-
-        <description>
-            A deep dive on the goddess Vinga.
-        </description>
-
+        <guid isPermaLink="true">https://drnightst.one/#vinga-through-the-ages</guid>
+        <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+        <description>A deep dive on the goddess Vinga.</description>
     </item>
 
 
     <item>
-
         <title>Who Is Talos?</title>
-
         <link>https://drnightst.one/#who-is-talos</link>
-
-        <guid isPermaLink="true">
-            https://drnightst.one/#who-is-talos
-        </guid>
-
-        <pubDate>
-            Mon, 12 Oct 2026 12:00:00 GMT
-        </pubDate>
-
-        <description>
-            Multiple accounts of Talos' history.
-        </description>
-
+        <guid isPermaLink="true">https://drnightst.one/#who-is-talos</guid>
+        <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
+        <description>Multiple accounts of Talos' history.</description>
     </item>
 
 
     <item>
-
         <title>Dissertation on Mythopoeia</title>
-
         <link>https://drnightst.one/#mythopoeia</link>
-
-        <guid isPermaLink="true">
-            https://drnightst.one/#mythopoeia
-        </guid>
-
-        <pubDate>
-            Tue, 06 Oct 2026 12:00:00 GMT
-        </pubDate>
-
-        <description>
-            The nature of myth, magic, and monkeys!
-        </description>
-
+        <guid isPermaLink="true">https://drnightst.one/#mythopoeia</guid>
+        <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+        <description>The nature of myth, magic, and monkeys!</description>
     </item>
-
 
 </channel>
 
